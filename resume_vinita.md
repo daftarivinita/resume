@@ -33,7 +33,7 @@ The project involved managing favorite quotations submitted by users - user regi
 * Achieved the top Coding Dojo rating (Black belt) for this project
 * Implemented functionality to register and login users using email, password, birthdate (including validations)
 * Added capability for users to post quotes along with authors
-Implemented features for users to tag favorite quotes from other users, and retrieve from mysql db to view
+* Implemented features for users to tag favorite quotes from other users, and retrieve from mysql db to view
 * Deployed the web application in AWS on EC2 along with creating nginx proxy and public ip for access
 
 ### Mini IMDB | Full Stack ###
