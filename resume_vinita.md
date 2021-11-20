@@ -44,7 +44,7 @@ This project was aimed at creating imdb like functionality - CRUD capability for
 * Created templates for the front end views, and rendered using models
 
 ## Education
-### Coding Dojo School (June 2021 - Present)   
+### Coding Dojo School (June 2021 - Nov 2021)   
 Full Stack Web Development Course  
 HTML, CSS, Python, Java, Algorithms
  
