@@ -12,7 +12,7 @@ Proactive and diligent Full Stack Developer with a passion for solving problems.
 ## Techincal Projects
 
 ### Stock Trading Simulator | Full Stack ###
-Developed a web application to simulate tracking stocks and kept track of user's portfolio growth using real time stock prices  
+Developed a web application to simulate tracking stocks and kept track of user's portfolio growth using real time stock prices.  
 ***Technical Stack*** - Java, SpringBoot, JSP, MySql, Stock APIs (Polygon)  
 * Created the database schema and implemented SpringBoot JPA models for the same
 * Integrated with external Stock API to get real time prices
@@ -20,7 +20,7 @@ Developed a web application to simulate tracking stocks and kept track of user's
 * Provided users ability to simulate buying/selling stock
 
 ### Work/Task Management | Full Stack ###  
-Created a web application to help teams manage tasks  
+Created a web application to help teams manage tasks.  
 ***Technical Stack*** - Java, Jsp, Springboot, Jpa, Mysql, Bootstrap    
 * Implemented CRUD capability for each user and task
 * Implemented logic to manage tasks and assignees
@@ -37,7 +37,7 @@ Implemented features for users to tag favorite quotes from other users, and retr
 * Deployed the web application in AWS on EC2 along with creating nginx proxy and public ip for access
 
 ### Mini IMDB | Full Stack ###
-This project was aimed at creating imdb like functionality - CRUD capability for movies  
+This project was aimed at creating imdb like functionality - CRUD capability for movies.  
 ***Technical Stack*** - Django, Python, Javascript, HTML, CSS
 * Created a full stack web app for users to create, retrieve, update, delete tv shows using Django web framework
 * Implemented RESTFul routing for each CRUD operation
