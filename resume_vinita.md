@@ -1,5 +1,5 @@
 # Vinita Daftari
-**Phone:** (312) 860-8464, **Email:** daftarivinita@gmail.com, **LinkedIn:** https://www.linkedin.com/in/vinita-singhi-4aa89720b/
+**Phone:** (312) 860-8464, **Email:** daftarivinita@gmail.com, **LinkedIn:** https://www.linkedin.com/in/vinita-singhi/
 
 ## Summary
 Proactive and diligent Full Stack Developer with a passion for solving problems. Skilled in object oriented programming using languages such as Java, Python, and Javascript. Proven ability to quickly adapt to using new technologies and tools. 
@@ -53,9 +53,18 @@ Bachelor of Commerce, Accounting and Taxation
 GPA: 3.70/4.0  
 
 ## Professional Experience
+### Kishanganj Maegamart, Kishanganj, India
+**Full Stack Engineer**
+* Managed Megamart's point of sale software installations
+* helped with creating digital ads
+* created automated scripts using Python to compile end of day/month/quarter reports.
 ### Rajbari Tea Estate, Kishanganj, India  
 **Accounting Assistant**  
 * Managed accounts payable, accounts receivable and payroll departments
 * Assisted in creating budgets and forecasts for various departments using strong attention to details
 * Learned about managing and recording company expenses
 * Managed vendor accounts and generated weekly on demand checks
+## Certification
+**Certified Software Development**
+* Python
+* Java
