@@ -1,5 +1,7 @@
 # Vinita Daftari
-**Phone:** (312) 860-8464, **Email:** daftarivinita@gmail.com, **LinkedIn:** https://www.linkedin.com/in/vinita-singhi/
+**Phone:** (312) 860-8464, **Email:** daftarivinita@gmail.com, **LinkedIn:** ht
+tps://www.linkedin.com/in/vinita-singhi/, **Github:** https://github.com/daftari
+vinita
 
 ## Summary
 Proactive and diligent Full Stack Developer with a passion for solving problems. Skilled in object oriented programming using languages such as Java, Python, and Javascript. Proven ability to quickly adapt to using new technologies and tools. 
