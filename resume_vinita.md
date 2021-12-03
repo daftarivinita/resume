@@ -45,26 +45,23 @@ This project was aimed at creating imdb like functionality - CRUD capability for
 
 ## Education
 ### Coding Dojo School (June 2021 - Nov 2021)   
-Full Stack Web Development Course  
-HTML, CSS, Python, Java, Algorithms
+Full Stack Web Development and Programming
+Black Belt (Highest honor from Coding Dojo)
  
 ### International College for Girls, Jaipur, India  
 Bachelor of Commerce, Accounting and Taxation  
 GPA: 3.70/4.0  
 
 ## Professional Experience
-### Kishanganj Maegamart, Kishanganj, India
+### Kishanganj Megamart, Kishanganj, India
 **Full Stack Engineer**
 * Managed Megamart's point of sale software installations
 * helped with creating digital ads
 * created automated scripts using Python to compile end of day/month/quarter reports.
+
 ### Rajbari Tea Estate, Kishanganj, India  
 **Accounting Assistant**  
 * Managed accounts payable, accounts receivable and payroll departments
 * Assisted in creating budgets and forecasts for various departments using strong attention to details
 * Learned about managing and recording company expenses
 * Managed vendor accounts and generated weekly on demand checks
-## Certification
-**Certified Software Development**
-* Python
-* Java
