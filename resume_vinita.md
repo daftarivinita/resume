@@ -7,7 +7,7 @@ Proactive and diligent Full Stack Developer with a passion for solving problems.
 ## Technical Skills
 **Language:** Python, Java, Javascript, HTML, CSS  
 **Frameworks:** Django, Spring boot, Jquery, Bootstrap  
-**Fundamentals:** Data Structures, Algorithms, Databases, Git
+**Fundamentals:** Data Structures, Algorithms, Databases, Git, MySql, Api
 
 ## Techincal Projects
 
